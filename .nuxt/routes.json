@@ -1,5 +1,12 @@
 [
   {
+    "name": "home-id",
+    "path": "/home/:id?",
+    "component": "/home/willscorp/PhpstormProjects/NuxtBnbClone/pages/home/_id.vue",
+    "chunkName": "pages/home/_id",
+    "_name": "_bb83386e"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/home/willscorp/PhpstormProjects/NuxtBnbClone/pages/index.vue",
